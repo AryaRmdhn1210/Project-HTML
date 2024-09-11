@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>
+            Fuji Trip
+        </title>
+    </head>
+    
+    <body background="fuji-mountain-kawaguchiko-lake-sunset-autumn-seasons-fuji-mountain-yamanachi-japan.jpg" link="#000" alink="#017bf5" vlink="#000">
+        <br />
+
+        <h3 align="center">
+            <font face="Lato" style="color:white;" size="6"><strong>FUJI TRIP'S</strong></font>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <font face="cinzel" size="4">
+                <a href="#">HOME</a>
+                &nbsp;&nbsp;
+                <a href="#">PACKAGE</a>
+                &nbsp;&nbsp;
+                <a href="#">ACTIVITIES</a>
+                &nbsp;&nbsp;
+                <a href="#">BLOG</a>
+                &nbsp;&nbsp;
+                <a href="#">CONTACT US</a>
+            </font>
+        </h3>
+
+        <br /><br /><br /><br />
+
+        <h1 align="center">
+            <font face="Lato" style="color:rgb(108, 63, 18)" size="7">
+              WELCOME TO FUJI TRIP
+            </font>
+        </h1>
+        
+        <article style="padding: 20px; text-align: center; size: 5; font: bold; color: #ffffff;">
+            <footer style="background-color: #a37457; color: white; padding: 5px; text-align: center; margin-top: 10px; border-radius: 10px;">
+            <p1 style="text-align: center;">Gunung Fuji (富士山, Fujisan, bahasa Jepang: [ɸɯꜜ(d)ʑisaɴ] ( simak)), terletak di pulau Honshu, adalah gunung tertinggi di Jepang</p1>
+            <p2 style="text-align: center;">dengan ketinggian 3.776,24 m (12.389,2 kaki). Gunung ini adalah gunung berapi tertinggi kedua yang terletak di sebuah pulau di benua Asia (setelah Gunung Kerinci di Pulau Sumatera), dan puncak tertinggi ketujuh dari sebuah pulau di Bumi.</p2>
+            <p3 style="text-align: center;">Gunung Fuji adalah gunung berapi aktif yang terakhir meletus pada tahun 1707 hingga 1708. Gunung ini terletak sekitar 100 km (62 mil) barat daya Tokyo dan dapat terlihat dari sana pada hari-hari cerah.</p3>
+            <p4 style="text-align: center;">Kerucut Gunung Fuji berbentuk sangat simetris, dan tertutup salju selama sekitar lima bulan dalam setahun. Gunung ini biasanya digunakan sebagai ikon budaya Jepang dan sering digambarkan dalam karya seni dan fotografi, serta dikunjungi oleh banyak wisatawan dan pendaki.</p4>
+            </footer>
+        </article>
+
+        <br /><br /><br /><br /><br /><br /><br /><br />
+        <h3 align="center">
+            <font face="Lato" style="color:rgb(238, 218, 191)" size="6">
+                <em>“Going to the mountains is like coming home.”</em>
+              </font>   
+        </h3>
+        <br />
+
+        <h3 align="center">
+            <a href="#" style="background-color: #a37457; color: white; padding: 5px; text-align: center; margin-top: 10px; border-radius: 10px;">
+            <font face="Lato" color="#fff">GET STARTED</font>
+            </a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="#" style="background-color: #a37457; color: white; padding: 5px; text-align: center; margin-top: 10px; border-radius: 10px;">
+            <font face="Lato" color="#fff">ORDER NOW!!!</font>
+            </a>
+        </h3>
+        
+        <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+        <footer style="background-color: #a37457; color: white; padding: 5px; text-align: center; margin-top: 10px; border-radius: 10px;">
+            <p>&copy; 2024 Fuji Trip</p>
+        </footer>
+
+     </body>
+</html>
